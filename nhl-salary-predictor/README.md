@@ -1,6 +1,6 @@
 # NHL Salary Predictor v0.1
 
-The purpose of this project is to develop a model to predict NHL Player Salaries.
+The purpose of this project is to develop a model to predict NHL Player Salaries. 
 In a sense, the prediction is really providing a guideline for fair market value
 for a player.  The model performs better than Linear Regression which is good but 
 I wasn't fully satisifed with the performance, so I dug a little deeper.  It turns 
