@@ -26,6 +26,7 @@ salaries (for comparison purposes)
 * OLSModelNoPCA.py - Ordinary Least Squares Regression model (without Principal 
 Component Analysis, so it doesn't account for multicollinearity)
 * Presentation.pdf - Accompanying model building and results presentation/report
+(may need to be refreshed a couple of times before it loads due to git-lfs)
 * README.md
 
 ## To Do's
