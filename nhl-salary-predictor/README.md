@@ -48,6 +48,7 @@ Component Analysis, so it doesn't account for multicollinearity)
 
 * Try to convert salary value to scaled number (1-10) to rank player performance
 * Apply model to CHL Player's and see what happens (will have to simplify based on available CHL Player stats)
+* Compare which teams have highest player model estimated value vs actual value
 
 ## Built With
 
